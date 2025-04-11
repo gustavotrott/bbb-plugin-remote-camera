@@ -1,0 +1,12 @@
+Source: bbb-plugin-remote-camera
+Section: web
+Priority: extra
+Maintainer: Anton Georgiev <anton.georgiev@blindsidenetworks.com>
+Build-Depends: debhelper (>= 13), nodejs (>= 18)
+Standards-Version: 4.1.4
+Homepage: https://github.com/bigbluebutton/plugin-remote-camera
+
+Package: bbb-plugin-remote-camera
+Architecture: all
+Depends: ${misc:Depends}, nodejs
+Description:

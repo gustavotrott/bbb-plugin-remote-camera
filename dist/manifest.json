@@ -1,0 +1,6 @@
+{
+  "requiredSdkVersion": "~0.0.59",
+  "name": "RemoteCameraPlugin",
+  "javascriptEntrypointUrl": "RemoteCameraPlugin.js",
+  "localesBaseUrl": "https://cdn.domain.com/pluginabc/"
+}
