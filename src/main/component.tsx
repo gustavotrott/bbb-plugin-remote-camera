@@ -27,6 +27,7 @@ function RemoteCameraPlugin({
       'userdata-is_remote_camera': '1',
       'userdata-bbb_auto_share_webcam': 'true',
       'userdata-bbb_hide_controls': 'true',
+      'userdata-bbb_auto_join_audio': 'false',
     });
     setNewJoinUrl(joinUrl);
   };
